@@ -1,0 +1,37 @@
+# Eclipse
+.classpath
+.project
+.factorypath
+.server
+.settings/
+.externalToolBuilders/
+.apt_generated/
+.apt_generated_tests/
+.serverPreference
+.springBeans
+ejbModule/
+/RemoteSystemsTempFiles
+META-INF/
+.recommenders/
+Servers/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+target/
+/.metadata/
+
+#old
+bin/
+*.log
+CVS/
+*.cvsignore
+
+#Sonar
+.scannerwork/
